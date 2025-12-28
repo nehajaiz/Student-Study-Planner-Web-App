@@ -8,6 +8,9 @@ I am a 3rd year CSE (AI/ML) student learning web development from scratch.
 - CSS
 - JavaScript
 
+## 📸 Screenshot
+![Project Preview](screenshot1.png)
+![Project Preview](screenshot2.png)
 
 ## 🌐 Live Demo
 (Add GitHub Pages link)
