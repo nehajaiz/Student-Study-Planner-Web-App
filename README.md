@@ -8,8 +8,6 @@ I am a 3rd year CSE (AI/ML) student learning web development from scratch.
 - CSS
 - JavaScript
 
-## 📸 Screenshot
-(Add screenshot here)
 
 ## 🌐 Live Demo
 (Add GitHub Pages link)
