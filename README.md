@@ -1,2 +1,22 @@
-# Student-Study-Planner-Web-App
-My first portfolio website built using HTML , CSS , JAVASCRIPT
+# Student Study Planner Web App 🌸
+
+This is my first personal portfolio website.
+I am a 3rd year CSE (AI/ML) student learning web development from scratch.
+
+## 🛠️ Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## 📸 Screenshot
+(Add screenshot here)
+
+## 🌐 Live Demo
+(Add GitHub Pages link)
+
+## 📚 What I Learned
+- Basic HTML structure
+- CSS styling
+- Hosting on GitHub
+
+⭐ If you like this project, give it a star!
