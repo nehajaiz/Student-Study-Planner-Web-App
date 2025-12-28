@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Student Study Planner</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+  <h1>🎓 Student Study Planner</h1>
+
+  <!-- Dashboard -->
+  <div class="section">
+    <h2>📊 Dashboard</h2>
+    <div class="dashboard">
+      <div>Subjects: <span id="total-subjects">0</span></div>
+      <div>Tasks: <span id="total-tasks">0</span></div>
+      <div>Completed: <span id="completed-tasks">0</span></div>
+    </div>
+    <div class="progress-bar">
+      <div class="progress-fill" id="progress-fill"></div>
+    </div>
+    <p id="motivation"></p>
+  </div>
+
+  <!-- Add Subject -->
+  <div class="section">
+    <h2>📚 Add Subject</h2>
+    <input id="subject-name" placeholder="Subject name">
+    <button type="button" onclick="addSubject()">Add Subject</button>
+    <ul id="subjects-list"></ul>
+  </div>
+
+  <!-- Add Task -->
+  <div class="section">
+    <h2>✅ Add Task</h2>
+
+    <select id="task-subject"></select>
+    <input id="task-name" placeholder="Task name">
+
+    <select id="task-type">
+      <option>Daily</option>
+      <option>Weekly</option>
+    </select>
+
+    <select id="task-priority">
+      <option>High</option>
+      <option>Medium</option>
+      <option>Low</option>
+    </select>
+
+    <input type="date" id="task-date">
+
+    <button type="button" onclick="addTask()">Add Task</button>
+    <ul id="tasks-list"></ul>
+  </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
