@@ -13,9 +13,6 @@ I am a 3rd year CSE (AI/ML) student learning web development from scratch.
 ![Project Preview](screenshot2.png)
 
 ## 🌐 Live Demo
-(Add GitHub Pages link)
-
-## 🌐 Live Demo
 https://nehajaiz.github.io/Student-Study-Planner-Web-App/
 
 ## 📚 What I Learned
