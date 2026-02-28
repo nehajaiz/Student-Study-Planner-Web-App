@@ -3,6 +3,8 @@
 This is my first personal portfolio website.
 I am a 3rd year CSE (AI/ML) student learning web development from scratch.
 
+✨ Features
+
 ## 🛠️ Technologies Used
 - HTML
 - CSS
