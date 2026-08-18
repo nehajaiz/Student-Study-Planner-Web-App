@@ -28,8 +28,11 @@ Neha Kumari
 B.Tech CSE (AI & ML)
 
 Passionate about Artificial Intelligence,
+
 Machine Learning,
+
 Data Analytics, 
+
 and Full-Stack Development.
 
 GitHub: https://github.com/nehajaiz
